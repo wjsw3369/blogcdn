@@ -2,11 +2,12 @@
 <svg
    class="logo-jenkins"
    version="1.1"
-   viewBox="682 209 71.828819 99.316994"
+   viewBox="682 209 100 100"
    id="svg1"
    sodipodi:docname="jenkins.svg"
-   width="71.828819"
-   height="99.316994"
+   width="100"
+   height="100"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,14 +22,23 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.73"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <g
      fill-rule="evenodd"
      fill="none"
      id="jenkins-logo"
      stroke-width="1"
      stroke="none"
-     transform="matrix(1,0,0,-1,682,308.31693)">
+     transform="matrix(1,0,0,-1,696.08551,308.65844)">
     <g
        id="g3393">
       <path
@@ -265,13 +275,13 @@
          fill="#f7e4cd"
          id="path132" />
       <path
-         d="m 47.658041,39.782643 c 0,-0.402906 -0.326831,-0.729618 -0.730095,-0.729618 -0.402866,0 -0.729698,0.326712 -0.729698,0.729618 0,0.402867 0.326832,0.730096 0.729698,0.730096 0.403264,0 0.730095,-0.327229 0.730095,-0.730096"
-         fill="#1d1919"
-         id="path134" />
-      <path
          d="m 48.387739,36.398885 c 0,-0.402906 -0.326831,-0.729618 -0.730096,-0.729618 -0.402866,0 -0.729697,0.326712 -0.729697,0.729618 0,0.402906 0.326831,0.730096 0.729697,0.730096 0.403265,0 0.730096,-0.32719 0.730096,-0.730096"
          fill="#1d1919"
          id="path136" />
+      <path
+         d="m 47.658041,39.782643 c 0,-0.402906 -0.326831,-0.729618 -0.730095,-0.729618 -0.402866,0 -0.729698,0.326712 -0.729698,0.729618 0,0.402867 0.326832,0.730096 0.729698,0.730096 0.403264,0 0.730095,-0.327229 0.730095,-0.730096"
+         fill="#1d1919"
+         id="path134" />
     </g>
   </g>
 </svg>
